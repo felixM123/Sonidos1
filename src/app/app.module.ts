@@ -11,6 +11,8 @@ import { HomePage } from '../pages/home/home';
   declarations: [
     MyApp,
     HomePage
+
+
   ],
   imports: [
     BrowserModule,
